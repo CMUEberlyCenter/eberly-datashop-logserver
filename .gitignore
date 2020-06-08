@@ -1,0 +1,13 @@
+.DS_Store
+build
+dist
+*.tiff
+*.spec
+*.zip
+.DS_Store
+*.save
+*.exe
+*.ini
+*.crash
+releases
+node_modules
